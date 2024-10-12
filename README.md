@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 2. Set up the backend:
    ```
    cd backend
-   conda create -n voice-assistant-env python=3.9
+   conda create -n voice-assistant-env python
    conda activate voice-assistant-env
    pip install -r requirements.txt
    ```
